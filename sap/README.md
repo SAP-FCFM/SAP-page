@@ -4,8 +4,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
  Before you start have installed:
  - [NVM](https://github.com/nvm-sh/nvm) or failing that [node v22.4.0](https://nodejs.org/en/blog/release/v22.4.0)
  ```bash
-       nvm install 22.4.0 node
-       nvm use 22.4.0
+nvm install 22.4.0 node
+nvm use 22.4.0
  ```
  - [Visual Studio Community 2022](https://apps.microsoft.com/store/detail/XPDCFJDKLZJLP8?ocid=pdpshare) or choose a code editor of your choice we recommend [Visual Code](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q?ocid=pdpshare)
   If you're using Visual Studio Community
@@ -14,9 +14,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
  How to get started with other code editors:
  First on your terminal make sure you are in the SAP folder
  ```bash
-       cd ./sap
-       npm install
-       npm run dev
+cd ./sap
+npm install
+npm run dev
  ```
 Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh

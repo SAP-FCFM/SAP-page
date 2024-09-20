@@ -1,0 +1,25 @@
+nav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    height: 60px;
+    background-color: #414BB2;
+    display: flex;
+    justify-content:space-between;
+}
+nav a img {
+    margin:15px;
+}
+nav li a {
+    text-decoration: none;
+    color:white;
+}
+
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: flex-end;
+    }
+nav li {
+    padding: 4px 3% 0 0;
+}
